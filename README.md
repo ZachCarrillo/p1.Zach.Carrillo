@@ -1,5 +1,5 @@
 # Elevator Gif
-![](https://github.com/ZachCarrillo/p1.Zach.Carrillo/blob/main/p1.Zach.Carrillo.gif)
+![<width="40" height="40"/>](https://github.com/ZachCarrillo/p1.Zach.Carrillo/blob/main/p1.Zach.Carrillo.gif)
 # Issues:
 All buttons are in a column
 No feedback when pressing certain buttons
